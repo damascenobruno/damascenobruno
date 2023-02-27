@@ -21,6 +21,12 @@ I'm Bruno Damasceno 👋
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  
+  <img align="center" alt="vba" src="https://img.shields.io/badge/VBA-00000F?style=for-the-badge&logo=vba&logoColor=white" />
+  
+  <img align="center" alt="git" src="https://img.shields.io/badge/GIT-00000F?style=for-the-badge&logo=git&logoColor=white" />
+  
+  <img align="center" alt="aws" src="https://img.shields.io/badge/AWS-ED8B00?style=for-the-badge&logo=aws&logoColor=black" />
 </div><br>
 
 Passionate about technology, software development student.<br>
